@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'finweb-amit'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_0DF24F0C6F4D445C9DC4F11DC44D2503 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60BFB6571CB840BCAB4DCCAFE746FB03 }}
